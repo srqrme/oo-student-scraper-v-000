@@ -8,7 +8,6 @@ class CommandLineInteface
 
   def run
     make_students
-    add_attributes_to_students
     display_students
   end
 
